@@ -1,0 +1,149 @@
+body{
+    background-color: rgba(94, 159, 185, 0.26);
+}
+#addict{
+    color: rgba(37, 23, 238, 0.972);
+    font-size: 50px;
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 8px;
+}
+.one{
+    margin: auto;
+    margin-top: 4px;
+    border: 2px solid rgba(75, 82, 68, 0.15);
+    width: 460px;
+    height: 580px;
+    box-sizing: border-box;
+}
+#rule{
+    text-emphasis: none;
+}
+#head{
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    font-weight: bold;
+    padding-left: 90px;
+    padding-top: 10px;
+}
+#desc{
+    font-family: cursive;
+    font-size: 18px;
+    line-height: 0em;
+    padding-left: 150px;
+    padding-top: 1px;
+    padding-bottom: 9px;
+}
+#first{
+    border: 2px solid grey;
+    width: 190px;
+    padding: 8px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    box-sizing: border-box;
+}
+#second{
+    border: 2px solid grey;
+    width: 186px;
+    padding: 8px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    box-sizing: border-box;
+}
+#third{
+    border: 2px solid grey;
+    width: 380px;
+    padding: 8px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+#fourth{
+    border: 2px solid grey;
+    width: 380px;
+    padding: 8px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+#fifth{
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    color: grey;
+    padding-top: 12px;
+}
+#day{
+    width: 130px;
+    border: 2px solid grey;
+    box-sizing: border-box;
+    padding: 8px;
+    font-size: 14px;
+}
+#month{
+    width: 130px;
+    border: 2px solid grey;
+    box-sizing: border-box;
+    padding: 8px;
+    font-size: 14px;
+}
+#year{
+    width: 130px;
+    border: 2px solid grey;
+    box-sizing: border-box;
+    padding: 8px;
+    font-size: 14px;
+}
+#sixth{
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    color: grey;
+    padding-top: 12px;
+}
+#male{
+    width: 130px;
+    border: 2px solid grey;
+    box-sizing: border-box;
+    padding: 8px;
+    font-size: 14px;
+}
+#female{
+    width: 130px;
+    border: 2px solid grey;
+    box-sizing: border-box;
+    padding: 8px;
+    font-size: 14px;
+}
+#custom{
+    width: 130px;
+    border: 2px solid grey;
+    box-sizing: border-box;
+    padding: 8px;
+    font-size: 14px;
+}
+#last{
+    padding: 14px;
+    font-size: 13px;
+}
+a{
+    text-decoration: none;
+}
+#soup{
+    margin-left: 130px;
+    width: 180px;
+    height: 40px;
+    background-color: rgb(27, 214, 59);
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+#lies{
+    color: rgb(17, 30, 218);
+    padding: 140px;
+    line-height: 3em;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
